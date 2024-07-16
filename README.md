@@ -20,3 +20,4 @@ This Python program filters an array of strings to create a new array containing
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+python filter_short_strings.py
